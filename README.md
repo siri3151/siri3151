@@ -1,8 +1,6 @@
 # Hi, I'm Sirisha 👋
-
 💻 Python Developer | Full Stack Enthusiast  
-🚀 Passionate about building real-world applications  
----
+🚀 Passionate about building real-world applications
 
 ## 🔧 Skills
 
